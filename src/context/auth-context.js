@@ -9,4 +9,4 @@ const AuthContextProvider = () => {
     return <AuthContext.Provider></AuthContext.Provider>
 }
 
-export default AuthContext;git
+export default AuthContext;
